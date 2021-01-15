@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Elvan 👋
+
+[![Elvan's github stats](https://github-readme-stats.vercel.app/api?username=elvan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/elvan?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvan&layout=compact&theme=tokyonight)](https://github.com/elvan?tab=repositories)
+
+[GitHub Readme Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **elvan/elvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
