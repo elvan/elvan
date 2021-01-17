@@ -1,8 +1,8 @@
 ### Hi there, I'm Elvan 👋
 
-[![Elvan's github stats](https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight)](https://github.com/elvan?tab=repositories)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvan&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/elvan?tab=repositories)
+
+[![Elvan's github stats](https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight)](https://github.com/elvan?tab=repositories)
 
 [GitHub Readme Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
