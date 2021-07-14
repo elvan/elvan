@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Elvan's github stats](https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&cache_seconds=1800&theme=tokyonight)](https://github.com/elvan?tab=repositories)
 
-[![Elvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elvan&layout=compact)](https://wakatime.com/@elvan)
+[![Elvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elvan&layout=compact&cache_seconds=1800&theme=tokyonight)](https://wakatime.com/@elvan)
 
 [GitHub Readme Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
