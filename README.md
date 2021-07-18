@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Web and Mobile development. [Study files repositories](https://github.com/elvan?tab=repositories&q=study&type=&language=&sort=)
+- 🌱 I’m currently learning Web and Mobile development. [My study file repositories](https://github.com/elvan?tab=repositories&q=study&type=&language=&sort=)
 - 📫 How to reach me: [Telegram](https://t.me/elvanhd)
 
 [![Elvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&cache_seconds=1800&theme=tokyonight)](https://github.com/elvan?tab=repositories)
