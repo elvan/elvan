@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Web and Mobile development. [My study file repositories](https://github.com/elvan?tab=repositories&q=study&type=&language=&sort=)
+- 🌱 I’m currently learning Web and Mobile development.
 - 📫 You can reach me on Telegram [@elvanhd](https://t.me/elvanhd)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvan&layout=compact&langs_count=10&cache_seconds=1800&theme=tokyonight)](https://github.com/elvan?tab=repositories)
