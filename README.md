@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 📫 You can reach me on Telegram [@elvanhd](https://t.me/elvanhd)
 
 <a href="https://github.com/elvan?tab=repositories">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&cache_seconds=1800&theme=tokyonight" />
+  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&cache_seconds=1800&theme=tokyonight" />
 </a>
 <a href="https://github.com/elvan?tab=repositories">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvan&layout=compact&langs_count=10&cache_seconds=1800&theme=tokyonight" />
+  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvan&layout=compact&langs_count=10&cache_seconds=1800&theme=tokyonight" />
 </a>
 
 [GitHub Readme Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
