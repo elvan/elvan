@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Web and Mobile development.
+- 🌱 I’m currently learning Web development.
 - 📫 You can reach me on Telegram [@elvanhd](https://t.me/elvanhd)
 
 <a href="https://github.com/elvan?tab=repositories">
