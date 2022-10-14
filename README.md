@@ -1,5 +1,8 @@
 ### Hi there, I'm Elvan 👋
 
+[![wakatime](https://wakatime.com/badge/user/b35b4f9b-8725-46ce-9a93-11a93440cd06.svg)](https://wakatime.com/@elvan)
+[![github](https://img.shields.io/github/followers/elvan?logo=github&style=plastic)](https://github.com/elvan?tab=followers)
+
 <!--
 **elvan/elvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
