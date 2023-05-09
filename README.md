@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" height="215" src="https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/elvan?tab=repositories">
-  <img align="center" height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvan&layout=compact&langs_count=10&theme=tokyonight" />
+  <img align="center" height="215" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvan&layout=compact&langs_count=10&theme=tokyonight&size_weight=1&count_weight=0" />
 </a>
 
 [GitHub Readme Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
