@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - 🌐 Visit my portfolio website is at [https://elvan.github.io](https://elvan.github.io/)
 
 <a href="https://github.com/elvan?tab=repositories">
-  <img align="center" height="215" src="https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight" />
+  <img align="center" height="215" src="https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&cache_seconds=14400" />
 </a>
 <a href="https://github.com/elvan?tab=repositories">
-  <img align="center" height="215" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvan&layout=compact&langs_count=10&theme=tokyonight&size_weight=1&count_weight=0" />
+  <img align="center" height="215" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvan&layout=compact&langs_count=10&theme=tokyonight&size_weight=1&count_weight=0&cache_seconds=14400" />
 </a>
 
 [GitHub Readme Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
