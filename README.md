@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Web development.
-- 📫 You can reach me on Telegram [@elvanhd](https://t.me/elvanhd)
+<!-- - 📫 You can reach me on Telegram [@elvanhd](https://t.me/elvanhd) -->
 - 🌐 Visit my portfolio website is at [https://elvan.github.io](https://elvan.github.io/)
 
 <a href="https://github.com/elvan?tab=repositories">
