@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🌱 I’m currently learning Web development. -->
-<!-- - 📫 You can reach me on Telegram [@elvanhd](https://t.me/elvanhd) -->
 - 🌐 Visit my portfolio website is at [https://elvan.github.io](https://elvan.github.io/)
+- 📫 You can reach me on Telegram at [@elvanhd](https://t.me/elvanhd)
 
 <a href="https://github.com/elvan?tab=repositories">
   <img align="center" height="215" src="https://github-readme-stats.vercel.app/api?username=elvan&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&cache_seconds=14400" />
